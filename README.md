@@ -64,7 +64,6 @@ UmugandaManagementSystem/
 | UI Framework   | Windows Forms (WinForms)      |
 | Database       | MySQL                         |
 | MySQL Driver   | MySql.Data (NuGet)            |
-| Cryptography   | SHA-256 (System.Security.Cryptography) |
 | IDE            | Visual Studio                 |
 
 ---
